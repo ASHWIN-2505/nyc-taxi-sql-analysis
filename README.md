@@ -98,7 +98,7 @@ This page provides a high-level summary of taxi operations including:
 * Hourly trip demand patterns
 * Revenue contribution by borough
 
-![Dashboard Page 1](screenshots/dashboard_page1.png)
+![Revenue & Trip Performance Overview](screenshots/Revenue_and_trip_performance.png)
 
 ---
 
@@ -111,7 +111,8 @@ This page focuses on geographic performance and operational patterns.
 * Revenue vs trip volume comparisons
 * Identification of high-demand zones
 
-![Dashboard Page 2](screenshots/dashboard_page2.png)
+![Zone Level Insights](screenshots/Zone_level_insights.png)
+
 
 ---
 
@@ -124,7 +125,8 @@ This page analyzes rider behavior and trip characteristics.
 * Tip contribution to revenue
 * Customer ride behavior trends
 
-![Dashboard Page 3](screenshots/dashboard_page3.png)
+![Customer Behaviour](screenshots/customer_behaviour.png)
+
 
 ---
 
